@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sebastian
-- 🌱 I’m currently learning working as a systems administrator at Laika studios
+## 🌱 I’m currently learning working as a systems administrator at Laika studios
 
 My current side project is learning Rust 🦀
 <!---
