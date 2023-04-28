@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Sebastian
-## 🌱 I’m currently learning working as a systems administrator at LAIKA studios
+# Hi, my name is Sebastian
+## 🌱 I am currently working as a systems administrator at LAIKA studios
 
-My current side project is learning Rust 🦀
+My current side project is learning [Rust]([url](https://www.rust-lang.org/)) 🦀 and [Astro]([url](https://astro.build/)) ‍🚀
 
 
 
